@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookProject.Web", "BookProject\BookProject.Web.csproj", "{FA4C842E-D5C5-4CBE-84F2-FE20DBA28C07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookProject.Service", "BookProject.Service\BookProject.Service.csproj", "{0F6E7E56-DC84-4046-9E08-69ED67D70DEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookProject.Data", "BookProject.Data\BookProject.Data.csproj", "{817440F8-FE72-42B0-B300-D5C3BD00F27C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA4C842E-D5C5-4CBE-84F2-FE20DBA28C07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA4C842E-D5C5-4CBE-84F2-FE20DBA28C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA4C842E-D5C5-4CBE-84F2-FE20DBA28C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA4C842E-D5C5-4CBE-84F2-FE20DBA28C07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F6E7E56-DC84-4046-9E08-69ED67D70DEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F6E7E56-DC84-4046-9E08-69ED67D70DEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F6E7E56-DC84-4046-9E08-69ED67D70DEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F6E7E56-DC84-4046-9E08-69ED67D70DEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{817440F8-FE72-42B0-B300-D5C3BD00F27C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{817440F8-FE72-42B0-B300-D5C3BD00F27C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{817440F8-FE72-42B0-B300-D5C3BD00F27C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{817440F8-FE72-42B0-B300-D5C3BD00F27C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
