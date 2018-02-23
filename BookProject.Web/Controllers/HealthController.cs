@@ -5,10 +5,10 @@ namespace BookProject.Web.Controllers
     [Route("health")]
     public class HealthController : Controller
     {
-        // GET: /<controller>/
-        public string Status()
+        [HttpGet]
+        public IActionResult Status()
         {
-            return "up";
+            return Ok(Json("UP")); 
         }
     }
 }
